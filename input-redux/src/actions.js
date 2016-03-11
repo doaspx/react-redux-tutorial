@@ -5,3 +5,10 @@ export function change(value){
         value:value
     }
 }
+
+
+//function mapDispatchToProps(dispatch){
+//    return{
+//        actions : bindActionCreators({changeText:changeText,buttonClick:buttonClick},dispatch)
+//    }
+//}
